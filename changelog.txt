@@ -1,0 +1,5 @@
+[B]Version 1.0.0 - 2011-10-29[/B]
+- Initial release
+- Using feed from official iPad app
+- Quality is not very good
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.natholdet" version="1.0.0" name="Natholdet" provider-name="twinther [tommy@winther.nu]">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+        <import addon="script.module.elementtree" version="1.2.7"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="da">Natholdet med Anders Breinholt</summary>
+        <description lang="da">Natholdet er et late night talkshow fra 2010, som sendes live mandag–torsdag cirka klokken 21:15 på Sputnik. På TV 2 sendes programmet klokken 23:05 samme aften. Værten på Natholdet er journalisten Anders Breinholt, samt en medvært, der skiftes fra gang til gang.</description>
+        <license>GPL 2.0</license>
+        <platform>all</platform>
+    </extension>
+</addon>
